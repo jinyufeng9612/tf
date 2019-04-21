@@ -1,0 +1,1 @@
+﻿set path=C:\Program Files\Git\bin;%path%
